@@ -70,6 +70,7 @@
        </snapshotRepository>
     </distributionManagement>
 
+	<!--
     <dependencyManagement>
         <dependencies>
             <!-- JBoss distributes a complete set of Java EE 6 APIs including a Bill
@@ -87,6 +88,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+-->
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
